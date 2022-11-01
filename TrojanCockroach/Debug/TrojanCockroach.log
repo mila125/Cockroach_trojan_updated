@@ -1,0 +1,24 @@
+﻿  TrojanCockroach.cpp
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(95,52): warning C4477: 'sprintf_s' : la cadena de formato '%p' requiere un argumento de tipo 'void *', pero el argumento variádico 1 tiene el tipo 'int'
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(180,19): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'LPWSTR'
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(180,19): message : considere el uso de ' %ls' en la cadena de formato
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(180,19): message : considere el uso de ' %lls' en la cadena de formato
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(180,19): message : considere el uso de ' %Ls' en la cadena de formato
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(180,19): message : considere el uso de ' %ws' en la cadena de formato
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(180,19): warning C4477: 'fprintf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 2 tiene el tipo 'errno_t'
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(223,23): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(225,54): warning C4244: 'argumento': conversión de 'WCHAR' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(227,49): warning C4244: 'argumento': conversión de 'WCHAR' a 'const _Elem'; posible pérdida de datos
+          with
+          [
+              _Elem=char
+          ]
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(228,42): warning C4244: '=': conversión de 'WCHAR' a 'char'; posible pérdida de datos
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(343,19): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(372,15): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\6lady\source\repos\TrojanCockroach\TrojanCockroach\TrojanCockroach.cpp(421): warning C4172: devolución de dirección de la variable local o temporal: randomName
+  TrojanCockroach.vcxproj -> C:\Users\6lady\source\repos\TrojanCockroach\Debug\TrojanCockroach.exe
